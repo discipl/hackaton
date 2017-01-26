@@ -14,7 +14,7 @@ __Free :__ it should be easy and free for anyone, citizens and organizations, to
 
 __Scalable :__ Small devices can be nodes. The more nodes the platform consists of, the more capacity for storing and processing information it should have. It should let your device do at least twice as much work for others (in an automated way) as you are requesting from the platform yourself to make this possible for instance. Look at Tangle (https://github.com/iotaledger) or Tribler (https://github.com/Tribler/tribler) to get an idea on how to do this.
 
-__Big Data :__ the platform should allow processing linked data stored in the platform in an efficient manner from within distributed apps. For instance through integration with MonetDB/R (https://github.com/MonetDB).
+__Big Data :__ the platform should allow processing linked data stored in the platform in an efficient manner from within distributed apps. For instance through integration with MonetDB/R (https://github.com/MonetDB, https://www.monetdb.org/content/embedded-r-monetdb).
 
 __Ready for the IoT :__ With harnessing the aspects above, Discipl is ready for the internet of things in which small devices transact with each other in automated fashion.
 
